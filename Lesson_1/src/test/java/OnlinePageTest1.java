@@ -4,7 +4,7 @@ import org.junit.Test;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class OnlinePageTest {
+public class OnlinePageTest1 {
     private WebDriver driver;
     private OnlinePageTest Page;
 
